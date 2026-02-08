@@ -28,4 +28,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: tkim1210/UBC-DSCI-310-2025W2:dockerfile-practice
+          tags: tkim1210//dsci310-ia3:dockerfile-practice
